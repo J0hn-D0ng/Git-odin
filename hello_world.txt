@@ -1,0 +1,6 @@
+Hello world !
+1. Git setup
+2. Git Basic
+3. Creat SSH key
+3. Clone resposity from Github to local machine
+4. Modify and push to GitHub
